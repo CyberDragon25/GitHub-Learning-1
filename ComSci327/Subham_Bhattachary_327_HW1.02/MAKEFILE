@@ -1,0 +1,2 @@
+all: 
+	gcc Main.c -o project1 -std=c99
